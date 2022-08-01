@@ -3,7 +3,7 @@
   "descricao": "Eliminatoria Copa 2022",
   "local": {
   "nome": "Maracanã",
-  "imagem": "TODO", 
+  "imagem": "https://s3.static.brasilescola.uol.com.br/be/2021/11/bandeira-do-brasil.jpg", 
   },
    "Mandante": {
    "nome": "Brasil",
@@ -13,7 +13,7 @@
      "Visitante": {
    "nome": "Argentina",
      "forca": 5,
-     "imagem":"TODO"
+     "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
   }
   }   
   ]
